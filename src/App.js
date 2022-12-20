@@ -1,8 +1,7 @@
 import React, { useState } from "react";
-import Counter from "./Components/Counter";
 import "./styles/App.css";
 function App() {
-  return <div className="App">{/* <Counter /> */}</div>;
+  return <div className="App"></div>;
 }
 
 export default App;
